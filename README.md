@@ -296,7 +296,7 @@ whoami
 
 Moved the workstation computer object into the custom Computers OU.
 
-![Computer Object in Active Directory](screenshots/21-client-computer-moved-to-custom-ou.png)
+![Computer Object in Active Directory](screenshots/21-client-computer-object-in-ad.png)
 
 ---
 
@@ -394,7 +394,7 @@ Reviewed the user's current Active Directory group memberships.
 - Added the user to the new departmental security group
 - Verified updated membership
 
-![Group Membership Changed](screenshots/26-user-group-membership-changed.png)
+![Group Membership Changed](screenshots/26-user-group-membership-changed-FinToSales.png)
 
 ## Tools Used
 
@@ -411,7 +411,7 @@ Created a Group Policy Object named:
 
 Linked the policy to the custom Users OU.
 
-![Group Policy Linked](screenshots/27-group-policy-linked-to-users-ou.png)
+![Group Policy Linked](screenshots/27-group-policy-created.png)
 
 Configured:
 
